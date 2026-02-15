@@ -7,7 +7,9 @@ Analysis of the Open food facts dataset revealed that high-protein offerings are
 ## B. Project Links
 Link to Notebook -https://colab.research.google.com/drive/1VJu8vhfbftoNk_9ou6YlmLdZW8FbZqhE?usp=sharing
 
-Link to Dashboard - https://app.powerbi.com/links/T2YkDFCM5U?ctid=6dc661f5-ee0c-460e-bdb4-034aeb3f3670&pbi_source=linkShare
+Link to Dashboard(requires login due to admin restrictions) - https://app.powerbi.com/links/T2YkDFCM5U?ctid=6dc661f5-ee0c-460e-bdb4-034aeb3f3670&pbi_source=linkShare
+
+Link to Dashboard Walkthrough - https://youtu.be/LxQi5fMGdkk
 
 Link to Presentation - https://aucampus-my.sharepoint.com/:p:/r/personal/samuel_ninson_ashesi_edu_gh/Documents/Presentation%201.pptx?d=wf82ab1353ed548f0977f3af2a8b9d584&csf=1&web=1&e=ZYlBQM
 
