@@ -21,7 +21,8 @@ The dataset initially contained several hundred thousand rows and 164 columns, r
 
 To ensure data validity, I removed biologically impossible values, specifically products with protein or sugar values below 0g or above 100g per 100g—since such values violate nutritional constraints and likely indicate data entry errors. This step was critical to prevent distorted visualizations and misleading cluster identification.
 
-For the candidate opportunity analysis, I developed a bar chart showing the average protein and sugar content across all categories. Using averages instead of totals allowed for fair comparison between categories of different sizes and helped validate that the Beverage category is structurally low in protein, thereby supporting the insight that the high-protein cluster is underrepresented within that segment.
+## Candidate's Choice 
+For the candidate opportunity analysis, I developed a bar chart showing the average protein and sugar content across all categories. Using averages instead of totals allowed for fair comparison between categories of different sizes and helped validate that the Beverage category is structurally low in protein, thereby supporting the insight that the high-protein cluster is underrepresented within that segment. From this choice, I got to find out how low the average of protein was in this category compared to the rest, seconding my initial analysis of the Beverage Category being the best category to exploit.
 
 
 
